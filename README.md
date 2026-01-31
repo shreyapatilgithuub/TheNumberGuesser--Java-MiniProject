@@ -13,7 +13,7 @@ A simple console-based Java game where the player tries to guess a randomly gene
 3. Run the game: java src/Main
 
 ## Demo
-![Game Screenshot] (src/screenshot.png)
+![Game Screenshot] (src/Screenshot.png)
 
 ## Author
 Shreya Patil
